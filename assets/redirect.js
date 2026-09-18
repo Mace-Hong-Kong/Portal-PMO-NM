@@ -1,7 +1,7 @@
 (() => {
   const config = {
     dashboardUrl:
-      "https://app.powerbi.com/groups/me/apps/27a310ca-809f-4fd0-8201-40e10da610ba/reports/1fa00f30-4129-4525-85fa-dcba8063b644?ctid=f9300280-65a0-46f8-a18c-a296431980f5&experience=power-bi",
+      "https://app.powerbi.com/Redirect?action=OpenApp&appId=27a310ca-809f-4fd0-8201-40e10da610ba&ctid=f9300280-65a0-46f8-a18c-a296431980f5&experience=power-bi",
     progressBarId: "progress-bar",
     manualLinkId: "manual-link",
     redirectedKey: "pmo-portal:redirected",
